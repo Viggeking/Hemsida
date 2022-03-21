@@ -1,0 +1,40 @@
+h1{
+   background-color: red; 
+   color: #F8F8FF;
+   margin-top: 20px;
+   margin-bottom: 40px;
+   padding: 5px;
+   border: 6px solid red;
+   width: 578px;
+}
+
+h2{
+    border-bottom: 6px solid red;
+    width: 600px;
+}
+
+h3,h4,h5,h6{
+    border-bottom: 2px solid red;
+    width: 600px;
+}
+
+p{
+    padding-left: 30px;
+    padding-right: 70px;
+    width: 500px;
+}
+ 
+img{
+    height: 200px;
+    border: solid 3px red;
+}
+
+.del1{
+    clear: left;
+    float: left;
+    width: 250px;
+}
+
+.del2{
+    float: left; 
+}
